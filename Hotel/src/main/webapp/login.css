@@ -1,0 +1,23 @@
+.navbar-brand{
+   color: black;
+   font-size: 45px;
+   font-family: fantasy;
+   border-right-style: solid;
+   padding-right: 10px;
+
+}
+
+.collapse{
+    font-size: 25px;
+    
+}
+.collapse .nav-item .nav-link{
+    color: #ee4c7c;
+    font-weight: 300;
+}
+
+.collapse .nav-item .active{
+    color: #ee4c7c;
+    font-weight: bold;
+    
+}
